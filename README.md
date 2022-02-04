@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Reihanstz
-- 👀 I’m interested in human health
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me at my house
+- 👀 I’m interested in: human health
+- 🌱 I’m currently learning: everything
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: at my house
 
 <!---
 Reihanstz/Reihanstz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
