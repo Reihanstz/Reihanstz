@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reihanstz
 - 👀 I’m interested in: human health
 - 🌱 I’m currently learning: everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on: not your business
 - 📫 How to reach me: at my house
 
 <!---
